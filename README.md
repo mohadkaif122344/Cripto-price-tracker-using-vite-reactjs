@@ -49,7 +49,7 @@ Web3Forms for contact form handling
 
 Clone the repository
 
-git clone https://github.com/mohadkaif122344/Crypto-price-tracker-using-vite+reactjs.git
+git clone https://github.com/mohadkaif122344/Crypto-price-tracker-using-reactjs.git
 
 cd Crypto-price-tracker-using-vite+reactjs
 
