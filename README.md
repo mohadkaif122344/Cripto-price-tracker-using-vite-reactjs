@@ -1,9 +1,9 @@
 
-📊 CryptoTracker
+# 📊 CryptoTracker
 
 A modern Crypto Price Tracker built with React + Vite that shows live cryptocurrency prices, charts, and detailed information. The app includes multi-currency support (USD, EUR, INR), responsive design, and smooth animations.
 
-🚀 Features
+## 🚀 Features
 
 🏠 Pages: Home, About, Contact
 
@@ -25,7 +25,7 @@ A modern Crypto Price Tracker built with React + Vite that shows live cryptocurr
 
 ⚡ Fast Build Tool: Powered by Vite
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 React.js (Functional Components & Hooks)
 
@@ -45,13 +45,13 @@ Web3Forms for contact form handling
 
 
 
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 
 Clone the repository
 
-git clone https://github.com/your-username/crypto-tracker.git
+git clone https://github.com/your-username/crypto-price-tracker-using-vite+reactjs.git
 
-cd crypto-tracker
+cd crypto-price-tracker-using-vite+reactjs
 
 
 Install dependencies
@@ -64,23 +64,22 @@ Start development server
 npm run dev
 
 
-Build for production
+## Build for production
 
 npm run build
 
-🌍 API Source
+## 🌍 API Source
 
-Data fetched from CoinGecko API
+### Data fetched from CoinGecko API
 .
 
-📧 Contact Form Setup
+### 📧 Contact Form Setup
 
 The Contact Page uses Web3Forms for form submission.
 
 Create a free account at Web3Forms
 .
 
-Replace your access_key in the form component.
 
 ![alt text](<Screenshot 2025-09-16 214253.png>) 
 
