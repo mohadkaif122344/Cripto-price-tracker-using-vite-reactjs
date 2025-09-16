@@ -12,10 +12,10 @@ const Contact = () => {
 
     const result = await response.json();
     if (result.success) {
-      alert("✅ Thank you! Your message has been submitted.");
+      alert(" Thank you! Your message has been submitted.");
       e.target.reset();
     } else {
-      alert("❌ Error: " + result.message);
+      alert(" Error: " + result.message);
     }
   };
 
@@ -30,11 +30,7 @@ const Contact = () => {
         className="w-full max-w-2xl bg-gray-800 text-white p-8 rounded-2xl shadow-2xl border border-gray-600 transition duration-300 hover:shadow-blue-500/40"
       >
         
-        {/* <input
-          type="hidden"
-          name="access_key"
-          value="f7d475b6-874a-41e7-8118-60b282f0082b"
-        /> */}
+      
 <input
   type="hidden"
   name="access_key"
