@@ -63,8 +63,10 @@ Start development server
 
 npm run dev
 
+Then open your browser and go to http://localhost:5173/
 
-## Build for production
+
+### Build for production
 
 npm run build
 
